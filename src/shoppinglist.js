@@ -6,3 +6,4 @@ import './js/API/storage';
 import './js/localStorage';
 import './js/form-authorization';
 import './js/number-shopping';
+import './js/pagination';
